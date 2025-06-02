@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EstherWit/Social-links-profile.git)
-- Live Site URL: [Add live site URL here](https://estherwit.github.io/Social-links-profile/)
+- Solution URL: (https://github.com/EstherWit/Social-links-profile.git)
+- Live Site URL: (https://estherwit.github.io/Social-links-profile/)
 
 ## My process
 I started by adding basic HTML elements such as <p> and <img>, then grouped related elements using <div> tags for better structure.
