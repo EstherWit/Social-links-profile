@@ -50,7 +50,7 @@ I’m interested in exploring CSS Grid in future projects. It seems like a power
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EstherWit)
-- Twitter - [@yourusername](https://www.twitter.com/EstherMoaweni)
+
+- Frontend Mentor - (https://www.frontendmentor.io/profile/EstherWit)
+- Twitter - (https://www.twitter.com/EstherMoaweni)
 
